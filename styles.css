@@ -34,6 +34,11 @@
     align-items: center;
 }
 
+.header-links a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
 .content1-container{
     display: flex;
     padding: 15px;
